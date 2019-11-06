@@ -1,2 +1,2 @@
 # Tidy_tuesday
-Tidy Tuesday Data Visz
+Tidy Tuesday Data Projects
